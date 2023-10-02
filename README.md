@@ -10,5 +10,6 @@ npx create-expo-app -e with-router
 
 ## 📝 Notes
 
+- [Tutorial for this Project] https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=1s&ab_channel=JavaScriptMastery
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)

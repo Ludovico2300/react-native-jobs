@@ -35,7 +35,7 @@ console.log(data);
           <Text>Something went wrong...</Text>
         ) : (
           <FlatList
-            data={[1, 2, 3, 4, 5, 6, 7, 8]}
+            data={data}
             renderItem={({ item }) => <PopularJobCard item={item} />}
             keyExtractor={(item) => item?.job_id}
             contentContainerStyle={{ columnGap: SIZES.medium }}
